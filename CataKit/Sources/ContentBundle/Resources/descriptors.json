@@ -1,0 +1,18 @@
+[
+  { "id": "cereza", "names": { "es": "Cereza" }, "family": "fruta roja" },
+  { "id": "frutilla", "names": { "es": "Frutilla" }, "family": "fruta roja" },
+  { "id": "ciruela", "names": { "es": "Ciruela" }, "family": "fruta negra" },
+  { "id": "mora", "names": { "es": "Mora" }, "family": "fruta negra" },
+  { "id": "violeta", "names": { "es": "Violeta" }, "family": "floral" },
+  { "id": "rosa", "names": { "es": "Rosa" }, "family": "floral" },
+  { "id": "pimienta-negra", "names": { "es": "Pimienta negra" }, "family": "especiado" },
+  { "id": "regaliz", "names": { "es": "Regaliz" }, "family": "especiado" },
+  { "id": "pimiento-verde", "names": { "es": "Pimiento verde" }, "family": "vegetal" },
+  { "id": "eucalipto", "names": { "es": "Eucalipto" }, "family": "vegetal" },
+  { "id": "tiza", "names": { "es": "Tiza" }, "family": "mineral" },
+  { "id": "pedernal", "names": { "es": "Pedernal" }, "family": "mineral" },
+  { "id": "vainilla", "names": { "es": "Vainilla" }, "family": "crianza" },
+  { "id": "tostado", "names": { "es": "Tostado" }, "family": "crianza" },
+  { "id": "cuero", "names": { "es": "Cuero" }, "family": "evolución" },
+  { "id": "tabaco", "names": { "es": "Tabaco" }, "family": "evolución" }
+]
