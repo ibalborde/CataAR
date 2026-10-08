@@ -1,0 +1,44 @@
+{
+  "id": "ar-san-juan-pedernal",
+  "parentId": "ar-san-juan",
+  "level": "district",
+  "names": { "es": "Valle de Pedernal" },
+  "altitudeMeters": { "min": 1200, "max": 1600 },
+  "climate": {
+    "es": "Clima continental de altura: muy seco y de alta amplitud térmica, moderado por las brisas de la precordillera que bajan la temperatura nocturna. La escasez de lluvias obliga a riego controlado, lo que junto al suelo pobre favorece rendimientos bajos."
+  },
+  "soils": {
+    "es": "Suelos calcáreos cubiertos de fragmentos de piedra y pedernal (sílex) —de ahí el nombre del valle—, pobres en materia orgánica, que aportan una nota mineral casi salina a los vinos."
+  },
+  "keyGrapeIds": ["syrah", "malbec", "cabernet-sauvignon"],
+  "wineStyle": {
+    "es": "El Syrah de Pedernal es el más fresco y mineral del país, de estilo cercano al Ródano Norte: fruta roja y negra, pimienta negra, violeta y una salinidad pedregosa en el final. El Malbec de altura es concentrado y de estructura precisa, menos frutal-dulce que el de Luján de Cuyo."
+  },
+  "protectedDesignations": [
+    {
+      "kind": "IG",
+      "name": { "es": "Valle del Pedernal" },
+      "rules": {
+        "es": "Reconocida por Resolución INV Nº C.21/2007. Delimitada según los límites administrativos del distrito Pedernal, perteneciente al Departamento Sarmiento, provincia de San Juan."
+      }
+    }
+  ],
+  "coordinates": { "lat": -31.9833, "lon": -68.7333 },
+  "sources": [
+    {
+      "title": "Resolución INV Nº C.21/2007 — Indicaciones Geográficas y Denominaciones de Origen de la República Argentina",
+      "url": "https://www.argentina.gob.ar/sites/default/files/i.g._y_d.o.c._de_la_republica_argentina.pdf",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wikipedia — Pedernal (San Juan)",
+      "url": "https://es.wikipedia.org/wiki/Pedernal_(San_Juan)",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine with Seth — Syrah in Argentina: San Juan's Specialty",
+      "url": "https://www.winewithseth.com/winewiki/syrah-san-juans-specialty-valle-de-uco-emerging-premium-northern-rhone-style-at-altitude/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
