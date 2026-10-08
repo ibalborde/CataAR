@@ -1,0 +1,56 @@
+{
+  "id": "ar-salta-cafayate",
+  "parentId": "ar-salta",
+  "level": "department",
+  "names": { "es": "Cafayate" },
+  "altitudeMeters": { "min": 1600, "max": 2000 },
+  "climate": {
+    "es": "Clima continental de altura, con gran amplitud térmica diaria (~12°C entre el día y la noche: promedios de 27°C de día y 15°C de noche en la temporada de maduración) y muy poca lluvia (~186 mm anuales), concentrada en verano. La altitud y el aire seco dan altísima luminosidad, con fuerte protección natural de la piel de la uva frente a la radiación UV."
+  },
+  "soils": {
+    "es": "Suelos aluvionales arenosos y franco-arenosos, con bolsones de guijarros, rocas y presencia de caliza; muy buen drenaje, lo que ayuda a lixiviar sales y limita naturalmente el rendimiento, concentrando la fruta."
+  },
+  "keyGrapeIds": [
+    "torrontes-riojano",
+    "malbec",
+    "cabernet-sauvignon",
+    "merlot",
+    "syrah",
+    "bonarda"
+  ],
+  "wineStyle": {
+    "es": "Blancos de Torrontés muy aromáticos (azahar, rosa) con acidez marcada pese a la calidez diurna, gracias al frío nocturno. Los tintos (sobre todo Malbec y Cabernet Sauvignon) muestran color muy intenso, taninos maduros y buena acidez natural, con menor peso alcohólico aparente que en otras zonas cálidas por esa misma amplitud térmica."
+  },
+  "protectedDesignations": [
+    {
+      "kind": "IG",
+      "name": { "es": "IG Cafayate" },
+      "rules": { "es": "Sinónimo reconocido: IG Valle de Cafayate (Res. INV C 15/04)." }
+    },
+    {
+      "kind": "IG",
+      "name": { "es": "IG Valles Calchaquíes" },
+      "rules": {
+        "es": "Sinónimo reconocido: IG Valle Calchaquí (Res. INV C 16/10). Indicación geográfica que abarca localidades vitivinícolas de Salta, Catamarca y Tucumán."
+      }
+    }
+  ],
+  "coordinates": { "lat": -26.0725, "lon": -65.9747 },
+  "sources": [
+    {
+      "title": "INV — Protección del Origen: Indicaciones Geográficas y DOC",
+      "url": "https://www.argentina.gob.ar/inv/proteccion-del-origen",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "South America Wine Guide — Ultimate Calchaquí Valley wine region guide",
+      "url": "https://southamericawineguide.com/calchaqui-valley-wine-region-guide/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "INV — Informe de Variedad: Torrontés (datos 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-torrontes-1",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
