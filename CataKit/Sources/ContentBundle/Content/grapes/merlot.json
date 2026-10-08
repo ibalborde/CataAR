@@ -1,0 +1,77 @@
+{
+  "id": "merlot",
+  "names": { "es": "Merlot" },
+  "aliases": [],
+  "color": "red",
+  "origin": {
+    "regionId": "fr",
+    "note": {
+      "es": "Originaria de Burdeos, Francia, donde se la usa clásicamente para suavizar los cortes con Cabernet Sauvignon. En Argentina llegó a ser la variedad más plantada del país y hoy ocupa un lugar más chico: según el INV, en 2022 sumaba 4.706 ha, el 2,3% de la superficie total de viñedos, concentradas sobre todo en Mendoza (Luján de Cuyo, Maipú y Valle de Uco), con presencia también en San Juan, Río Negro y Neuquén."
+    }
+  },
+  "structure": { "body": 4, "tannin": 3, "acidity": 3, "alcohol": 4, "colorIntensity": 4 },
+  "visual": {
+    "es": "Rojo rubí vivo con reflejos púrpura de joven, que vira a tonos granate con la guarda. Algo menos intenso y opaco que el Malbec."
+  },
+  "aromas": [
+    { "descriptorId": "ciruela", "kind": "primary" },
+    { "descriptorId": "cereza", "kind": "primary" },
+    { "descriptorId": "violeta", "kind": "primary" },
+    { "descriptorId": "pimienta-negra", "kind": "primary" },
+    { "descriptorId": "vainilla", "kind": "secondary" },
+    { "descriptorId": "cacao", "kind": "secondary" },
+    { "descriptorId": "tabaco", "kind": "tertiary" }
+  ],
+  "palate": {
+    "es": "Cuerpo medio a pleno, con taninos redondeados y suaves gracias a su piel fina y pocas semillas —más lisos que los del Cabernet Sauvignon aunque de cuerpo similar al Malbec— y acidez media que le da frescura sin volverse filosa."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Color rubí con reflejo púrpura, algo menos intenso y opaco que el Malbec; vira a granate con la guarda."
+    },
+    {
+      "es": "Taninos muy redondeados y lisos, notablemente más suaves que los del Cabernet Sauvignon, pese a tener un cuerpo parecido al del Malbec."
+    },
+    {
+      "es": "Perfil de ciruela, cereza, violeta y una nota de especia/pimienta dulce; con roble suma vainilla, y con guarda aparecen chocolate y tabaco."
+    },
+    {
+      "es": "Históricamente se usó para 'domar' los taninos del Cabernet Sauvignon en cortes bordeleses: pensala como la variedad que suaviza, no la que estructura."
+    }
+  ],
+  "confusedWith": [
+    {
+      "grapeId": "cabernet-sauvignon",
+      "howToTell": {
+        "es": "Medio-hermanos genéticos con estructura parecida en cuerpo, pero el Cabernet Sauvignon tiene taninos más firmes y astringentes de joven y más acidez; el Merlot es más redondo y de taninos lisos desde el principio, sin la nota de pimiento verde tan marcada."
+      }
+    }
+  ],
+  "evolution": {
+    "young": {
+      "es": "Ciruela y cereza frescas, nota floral de violeta y un toque de especia; taninos ya redondos y acidez viva."
+    },
+    "aged": {
+      "es": "Se vuelve más achocolatado y carnoso, con notas de tabaco; el color pasa de rubí a granate y los taninos se pulen todavía más."
+    },
+    "agingPotentialYears": { "min": 3, "max": 15 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe de Variedad: Merlot (datos 2022)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-merlot",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wines of Argentina — Argentine Merlot, Another Opportunity To Discover A Great Wine",
+      "url": "https://blog.winesofargentina.com/destacadas/argentine-merlot/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — The Comprehensive Guide to Merlot",
+      "url": "https://winefolly.com/grapes/merlot/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

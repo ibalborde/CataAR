@@ -1,0 +1,74 @@
+{
+  "id": "cabernet-franc",
+  "names": { "es": "Cabernet Franc" },
+  "aliases": [],
+  "color": "red",
+  "origin": {
+    "regionId": "fr",
+    "note": {
+      "es": "Originaria de Burdeos y el Valle del Loira, Francia. Es, junto con la Sauvignon Blanc, uno de los dos padres genéticos del Cabernet Sauvignon. En Argentina creció fuerte en la última década: según el INV, en 2024 ocupaba 1.937 ha (1% de la superficie total de viñedos), con el 82% concentrado en Mendoza, sobre todo en Luján de Cuyo y los tres departamentos del Valle de Uco."
+    }
+  },
+  "structure": { "body": 3, "tannin": 3, "acidity": 4, "alcohol": 3, "colorIntensity": 4 },
+  "visual": {
+    "es": "Rojo rubí más abierto y menos opaco que el Malbec, con el brillo típico de una tinta de acidez alta."
+  },
+  "aromas": [
+    { "descriptorId": "pimiento-verde", "kind": "primary" },
+    { "descriptorId": "violeta", "kind": "primary" },
+    { "descriptorId": "frutilla", "kind": "primary" },
+    { "descriptorId": "grafito", "kind": "primary" }
+  ],
+  "palate": {
+    "es": "Cuerpo medio, acidez alta y tensa, y taninos medio-altos pero más finos que los del Cabernet Sauvignon. La nota herbácea de pimiento verde (pirazinas) suele acompañar la fruta roja de principio a fin."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Nota herbácea de pimiento verde bien marcada: es la pista más clara frente al Malbec y la Bonarda, que no la tienen."
+    },
+    {
+      "es": "Acidez alta y tensa, más cercana a la de la Bonarda que a la del Malbec, pero con más cuerpo y tanino que la Bonarda."
+    },
+    {
+      "es": "Color rubí más abierto y menos opaco que el Malbec."
+    },
+    {
+      "es": "Nota mineral de grafito o 'punta de lápiz', poco habitual en las otras tintas ya cargadas."
+    }
+  ],
+  "confusedWith": [
+    {
+      "grapeId": "cabernet-sauvignon",
+      "howToTell": {
+        "es": "Comparten genética (el Cabernet Franc es padre del Cabernet Sauvignon) y la nota de pimiento verde, pero el Cabernet Sauvignon tiene más cuerpo, tanino y color, mientras que el Cabernet Franc es más liviano, de acidez más marcada y con la nota herbácea más protagonista."
+      }
+    }
+  ],
+  "evolution": {
+    "young": {
+      "es": "Pimiento verde y fruta roja muy frescos, con un toque floral de violeta y acidez vibrante."
+    },
+    "aged": {
+      "es": "La nota herbácea se suaviza y aparecen matices de tabaco y cuero; los taninos se integran y el conjunto gana redondez."
+    },
+    "agingPotentialYears": { "min": 3, "max": 10 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe de variedad: Cabernet Franc (datos 2024)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-cabernet-franc-0",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "INV — Cabernet Franc, su actualidad en Argentina",
+      "url": "https://www.argentina.gob.ar/noticias/cabernet-franc-su-actualidad-en-argentina",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — The Comprehensive Guide to Cabernet Franc",
+      "url": "https://winefolly.com/grapes/cabernet-franc/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

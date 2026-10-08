@@ -1,0 +1,90 @@
+{
+  "id": "cabernet-sauvignon",
+  "names": { "es": "Cabernet Sauvignon" },
+  "aliases": [],
+  "color": "red",
+  "origin": {
+    "regionId": "fr",
+    "note": {
+      "es": "Originaria de Burdeos, Francia: es una cruza natural entre Cabernet Franc y Sauvignon Blanc, confirmada por estudios de ADN. Llegó a Mendoza junto con otras variedades francesas en la segunda mitad del siglo XIX. Según el INV, en 2025 ocupaba 12.430 ha (6,2% de la superficie total de viñedos), siendo la cuarta variedad en superficie del país detrás de Malbec, Cereza y Bonarda, con un 77,5% concentrado en Mendoza. A diferencia del Malbec, su superficie viene en descenso sostenido."
+    }
+  },
+  "structure": { "body": 4, "tannin": 4, "acidity": 4, "alcohol": 4, "colorIntensity": 5 },
+  "visual": {
+    "es": "Rojo rubí muy oscuro, casi negro, de capa alta por el grosor y la riqueza en taninos de su piel."
+  },
+  "aromas": [
+    { "descriptorId": "cereza", "kind": "primary" },
+    { "descriptorId": "grosella-negra", "kind": "primary" },
+    { "descriptorId": "pimiento-verde", "kind": "primary" },
+    { "descriptorId": "pimienta-negra", "kind": "primary" },
+    { "descriptorId": "vainilla", "kind": "secondary" },
+    { "descriptorId": "tostado", "kind": "secondary" },
+    { "descriptorId": "grafito", "kind": "tertiary" },
+    { "descriptorId": "tabaco", "kind": "tertiary" }
+  ],
+  "palate": {
+    "es": "Cuerpo pleno y taninos firmes, casi astringentes de joven, que necesitan tiempo de botella o guarda para pulirse. Acidez marcada que sostiene su potencial de guarda. Es una de las cepas tintas más estructuradas y pensadas para envejecer."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Taninos mucho más firmes y astringentes que el Malbec: se nota la diferencia de estructura ya en el primer sorbo."
+    },
+    {
+      "es": "Nota vegetal de pimiento verde (por la metoxipirazina), prácticamente ausente en el Malbec."
+    },
+    {
+      "es": "Acidez más marcada que el Malbec, lo que sostiene guardas más largas."
+    },
+    {
+      "es": "Perfil de grosella negra y notas de grafito o mina de lápiz, en vez de la ciruela y la violeta típicas del Malbec."
+    }
+  ],
+  "confusedWith": [
+    {
+      "grapeId": "malbec",
+      "howToTell": {
+        "es": "El Cabernet Sauvignon tiene mucho más tanino y acidez que el Malbec, con una marcada nota vegetal de pimiento verde que el Malbec no tiene; el Malbec es más redondo, frutado y de taninos más suaves."
+      }
+    },
+    {
+      "grapeId": "cabernet-franc",
+      "howToTell": {
+        "es": "Comparten genética (el Cabernet Franc es uno de sus padres) y la nota de pimiento verde, pero el Cabernet Franc es más liviano, de menor tanino y color, con la nota herbácea y la acidez más protagonistas; el Cabernet Sauvignon es más estructurado y concentrado."
+      }
+    },
+    {
+      "grapeId": "merlot",
+      "howToTell": {
+        "es": "Comparten genética y cuerpo pleno, pero el Merlot tiene taninos mucho más suaves y lisos, con menos nota vegetal de pimiento verde que el Cabernet Sauvignon."
+      }
+    }
+  ],
+  "evolution": {
+    "young": {
+      "es": "Fruta negra fresca (grosella, cereza), nota vegetal de pimiento verde bien presente, taninos firmes y algo ásperos, color muy intenso."
+    },
+    "aged": {
+      "es": "La fruta se repliega, el pimiento verde se integra y aparecen notas de grafito, cedro y tabaco; los taninos se pulen y ganan sedosidad, el borde vira a tonos teja."
+    },
+    "agingPotentialYears": { "min": 5, "max": 20 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe de Variedad: Cabernet Sauvignon (datos 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-cabernet-sauvignon-1",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wines of Argentina — 4 Reasons To Uncork An Argentine Cabernet Sauvignon",
+      "url": "https://blog.winesofargentina.com/destacadas/argentine-cabernet-sauvignon/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — Cabernet Sauvignon: Everything You Need To Know",
+      "url": "https://winefolly.com/grapes/cabernet-sauvignon/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
