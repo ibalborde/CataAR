@@ -1,0 +1,72 @@
+{
+  "id": "syrah",
+  "names": { "es": "Syrah" },
+  "aliases": ["Shiraz"],
+  "color": "red",
+  "origin": {
+    "regionId": "fr",
+    "note": {
+      "es": "Originaria del Valle del Ródano, Francia. Estudios de ADN de 1999 determinaron que es el cruce natural entre las variedades Dureza y Mondeuse Blanche. En Argentina, según el INV, a diciembre de 2024 ocupaba 10.658 ha (5,3% de la superficie total de viñedos), concentradas en Mendoza (71,4%), San Juan (21,3%) y La Rioja (3,8%), con fuerte crecimiento reciente en Salta, Catamarca y Jujuy."
+    }
+  },
+  "structure": { "body": 4, "tannin": 4, "acidity": 3, "alcohol": 4, "colorIntensity": 5 },
+  "visual": {
+    "es": "Color muy intenso y profundo, entre los de mayor concentración de las tintas argentinas, en línea con el del Malbec."
+  },
+  "aromas": [
+    { "descriptorId": "arandano", "kind": "primary" },
+    { "descriptorId": "ciruela", "kind": "primary" },
+    { "descriptorId": "violeta", "kind": "primary" },
+    { "descriptorId": "pimienta-negra", "kind": "primary" },
+    { "descriptorId": "humo", "kind": "secondary" },
+    { "descriptorId": "tostado", "kind": "secondary" },
+    { "descriptorId": "cuero", "kind": "tertiary" },
+    { "descriptorId": "tabaco", "kind": "tertiary" },
+    { "descriptorId": "aceituna-negra", "kind": "tertiary" }
+  ],
+  "palate": {
+    "es": "Cuerpo pleno, con taninos medio-altos —más marcados que los del Malbec— y acidez media que sostiene la fruta madura. Cierra con una nota picante de pimienta negra muy característica."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Taninos más firmes y marcados que los del Malbec, aunque con un cuerpo igual de pleno."
+    },
+    {
+      "es": "Nota de pimienta negra muy presente en nariz y en el final, más marcada que en el Malbec."
+    },
+    {
+      "es": "Con guarda puede aparecer aceituna negra y cuero, un perfil evolutivo distinto al del Malbec."
+    },
+    {
+      "es": "Color tan intenso como el del Malbec, pero el perfil frutal se inclina a mora/arándano con especia en vez de ciruela con violeta dulce."
+    }
+  ],
+  "confusedWith": [],
+  "evolution": {
+    "young": {
+      "es": "Fruta negra madura (arándano, ciruela), pimienta negra vibrante y taninos firmes pero todavía frescos."
+    },
+    "aged": {
+      "es": "La fruta se repliega y ganan protagonismo el cuero, el tabaco, la aceituna negra y notas ahumadas; los taninos se pulen sin perder estructura."
+    },
+    "agingPotentialYears": { "min": 4, "max": 12 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe de variedad: Syrah (datos a diciembre de 2024)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-syrah-0",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Market — Syrah: una uva con historia, carácter y un gran presente en Argentina",
+      "url": "https://revistawinemarket.com.ar/syrah-una-uva-con-historia-caracter-y-un-gran-presente-en-argentina/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — The Comprehensive Guide to Syrah",
+      "url": "https://winefolly.com/grapes/syrah/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
