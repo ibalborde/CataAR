@@ -1,0 +1,56 @@
+{
+  "id": "ar-mendoza-san-rafael",
+  "parentId": "ar-mendoza",
+  "level": "department",
+  "names": { "es": "San Rafael" },
+  "altitudeMeters": { "min": 450, "max": 950 },
+  "climate": {
+    "es": "Clima más templado y cálido que el de Luján de Cuyo o el Valle de Uco pese a estar más al sur: la altitud baja compensa la latitud. Zona árida bajo sombra de lluvia de los Andes, con riego de los ríos Atuel y Diamante como fuente de agua clave."
+  },
+  "soils": {
+    "es": "Predominan los suelos franco-arenosos, con presencia de piedra y arcilla en profundidad. La textura arenosa favorece vinos de perfil frutado y fácil consumo más que de gran concentración."
+  },
+  "keyGrapeIds": ["malbec", "bonarda", "syrah", "cabernet-sauvignon", "merlot"],
+  "wineStyle": {
+    "es": "Vinos de perfil frutado y equilibrado, con acidez moderada; el Cabernet Sauvignon y el Merlot de la zona se destacan por su carácter afrutado más que por la estructura tánica. En conjunto, un estilo más accesible y menos concentrado que el de las zonas altas de Mendoza."
+  },
+  "protectedDesignations": [
+    {
+      "kind": "IG",
+      "name": { "es": "IG San Rafael" },
+      "rules": {
+        "es": "Reconocida por Resolución INV Nº C.32/2002; delimita el área de producción dentro del departamento de San Rafael."
+      }
+    },
+    {
+      "kind": "DOC",
+      "name": { "es": "DOC San Rafael" },
+      "rules": {
+        "es": "Reconocida por Resolución INV Nº C.31/2007. Es una de las dos únicas Denominaciones de Origen Controlada de Argentina (junto con Luján de Cuyo): exige que el área delimitada tenga cualidades ecológicas distintivas aptas para vinos de calidad superior."
+      }
+    }
+  ],
+  "coordinates": { "lat": -34.6177, "lon": -68.3301 },
+  "sources": [
+    {
+      "title": "INV — Protección del Origen: Indicaciones Geográficas (IG) y Denominación de Origen Controlada (DOC)",
+      "url": "https://www.argentina.gob.ar/inv/proteccion-del-origen",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Cumbre In — DOC San Rafael: qué es la Denominación de Origen y por qué multiplica el valor de su finca",
+      "url": "https://cumbrein.com/blog/articulo/doc-san-rafael-que-es-la-denominacion-de-origen-y-por-que-multiplica-el-valor-de-su-finca",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Guía de Vinos — Las variedades de San Rafael: cultivan 96 cepas distintas (INV 2022)",
+      "url": "https://guiadevinos.com.ar/las-variedades-de-san-rafael-cultivan-96-cepas-distintas/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "South America Wine Guide — Guide to San Rafael and General Alvear wine regions in Mendoza",
+      "url": "https://southamericawineguide.com/guide-to-san-rafael-and-general-alvear-wine-regions-in-mendoza/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
