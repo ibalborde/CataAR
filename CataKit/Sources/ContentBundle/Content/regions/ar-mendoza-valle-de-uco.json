@@ -1,0 +1,44 @@
+{
+  "id": "ar-mendoza-valle-de-uco",
+  "parentId": "ar-mendoza",
+  "level": "region",
+  "names": { "es": "Valle de Uco" },
+  "altitudeMeters": { "min": 900, "max": 1500 },
+  "climate": {
+    "es": "Clima frío de altura con amplitud térmica marcada (hasta 15°C de diferencia entre día y noche), más de 250 días de sol al año y lluvias escasas (irrigación por deshielo de los ríos Tunuyán y Tupungato). La altura y la amplitud térmica son las que le dan al Malbec de la zona su perfil más floral y fresco frente al de zonas más bajas de Mendoza."
+  },
+  "soils": {
+    "es": "Suelos aluvionales, pedregosos y pobres, muy permeables, con cantos rodados y arena gruesa en las partes más altas — favorecen bajo rendimiento y buena concentración."
+  },
+  "keyGrapeIds": ["malbec", "cabernet-sauvignon", "cabernet-franc", "merlot", "bonarda", "pinot-noir"],
+  "wineStyle": {
+    "es": "Vinos de altura, de acidez marcada y gran definición aromática por la amplitud térmica: el Malbec gana notas florales y especiadas frente al de zonas más bajas, mientras que el Pinot Noir y el Cabernet Franc encuentran acá una de sus mejores expresiones del país gracias al clima fresco."
+  },
+  "protectedDesignations": [
+    {
+      "kind": "IG",
+      "name": { "es": "IG Valle de Uco" },
+      "rules": {
+        "es": "Zona interjurisdiccional que abarca los departamentos de Tunuyán, Tupungato y San Carlos, reconocida por el INV. Dentro de ella existen IG más específicas y recientes (Paraje Altamira, Gualtallary, San Pablo, Cordón El Cepillo, entre otras) para sub-zonas con identidad de suelo y clima propia."
+      }
+    }
+  ],
+  "coordinates": { "lat": -33.5833, "lon": -69.0167 },
+  "sources": [
+    {
+      "title": "INV — Protección del Origen (IG y DOC)",
+      "url": "https://www.argentina.gob.ar/inv/proteccion-del-origen",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Perfect & Wijn — Uco Valley GI: altitude, grapes, and terroir",
+      "url": "https://perfectewijn.nl/en/blogs/wijn-weetjes/valle-de-uco-ig",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wikipedia — Uco Valley",
+      "url": "https://en.wikipedia.org/wiki/Uco_Valley",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
