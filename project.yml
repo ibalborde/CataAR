@@ -4,6 +4,7 @@ options:
   deploymentTarget:
     iOS: "26.0"
   createIntermediateGroups: true
+  developmentLanguage: es
 packages:
   CataKit:
     path: CataKit
@@ -23,6 +24,8 @@ targets:
         product: ContentBundle
       - package: CataKit
         product: DesignSystem
+      - package: CataKit
+        product: GrapesFeature
     settings:
       base:
         SWIFT_VERSION: "6.0"

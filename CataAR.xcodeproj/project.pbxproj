@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3B01A02BB20362E2ABA24740 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C008E8634A866241725078 /* RootView.swift */; };
 		456C53963B2170120835AD17 /* AppContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D867082D7B5BDE098D384EF /* AppContainer.swift */; };
+		48487DD49CF667873AD5BE31 /* GrapesFeature in Frameworks */ = {isa = PBXBuildFile; productRef = F4D18D39032AFB8A96FF75E8 /* GrapesFeature */; };
 		4D978DAA4D9220B3A1E5F9A6 /* CataARApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CC21FAB01A5D4E319F8824 /* CataARApp.swift */; };
 		65ADAEBBF8D7FC702ECF4F60 /* Data in Frameworks */ = {isa = PBXBuildFile; productRef = 93A8C14852D40EC9BD5BB59E /* Data */; };
 		6B5DC253BA5B7DC1B809C766 /* Domain in Frameworks */ = {isa = PBXBuildFile; productRef = AEA46788772B46C7C0EA6B0F /* Domain */; };
@@ -44,6 +45,7 @@
 				65ADAEBBF8D7FC702ECF4F60 /* Data in Frameworks */,
 				9E22B65D9935C4443D17CA75 /* ContentBundle in Frameworks */,
 				FB5124068A1FD80BFF7FDF42 /* DesignSystem in Frameworks */,
+				48487DD49CF667873AD5BE31 /* GrapesFeature in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,6 +134,7 @@
 				93A8C14852D40EC9BD5BB59E /* Data */,
 				D6B41E0FDE10490E631AC676 /* ContentBundle */,
 				6B6F0B5023BF306436F0E7DA /* DesignSystem */,
+				F4D18D39032AFB8A96FF75E8 /* GrapesFeature */,
 			);
 			productName = CataAR;
 			productReference = A4AC4D20662AE758CED00585 /* CataAR.app */;
@@ -152,11 +155,11 @@
 				};
 			};
 			buildConfigurationList = 480AE0F0433B0FA731E0B8F0 /* Build configuration list for PBXProject "CataAR" */;
-			developmentRegion = en;
+			developmentRegion = es;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				Base,
-				en,
+				es,
 			);
 			mainGroup = 18BF50442729BC725D9E09B4;
 			minimizedProjectReferenceProxies = 1;
@@ -457,6 +460,10 @@
 		D6B41E0FDE10490E631AC676 /* ContentBundle */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = ContentBundle;
+		};
+		F4D18D39032AFB8A96FF75E8 /* GrapesFeature */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = GrapesFeature;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
