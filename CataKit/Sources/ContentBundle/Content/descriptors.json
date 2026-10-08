@@ -3,6 +3,7 @@
   { "id": "frutilla", "names": { "es": "Frutilla" }, "family": "fruta roja" },
   { "id": "ciruela", "names": { "es": "Ciruela" }, "family": "fruta negra" },
   { "id": "mora", "names": { "es": "Mora" }, "family": "fruta negra" },
+  { "id": "arandano", "names": { "es": "Arándano" }, "family": "fruta negra" },
   { "id": "violeta", "names": { "es": "Violeta" }, "family": "floral" },
   { "id": "rosa", "names": { "es": "Rosa" }, "family": "floral" },
   { "id": "pimienta-negra", "names": { "es": "Pimienta negra" }, "family": "especiado" },

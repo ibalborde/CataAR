@@ -1,0 +1,75 @@
+{
+  "id": "bonarda",
+  "names": { "es": "Bonarda" },
+  "aliases": ["Douce Noir", "Corbeau", "Charbono"],
+  "color": "red",
+  "origin": {
+    "regionId": "fr",
+    "note": {
+      "es": "Pese al nombre, estudios de ADN de 2009 determinaron que la Bonarda argentina no es la Bonarda italiana sino la Douce Noir (también llamada Corbeau), originaria de Saboya, Francia. Llegó al país con inmigrantes europeos a fines del siglo XIX y se adaptó bien al clima cálido y seco de Cuyo. Es la segunda cepa tinta más plantada de Argentina: según el INV, en 2025 ocupaba 16.360 ha, el 8,3% de la superficie total de viñedos, concentradas en un 99% entre Mendoza, San Juan y La Rioja."
+    }
+  },
+  "structure": { "body": 3, "tannin": 2, "acidity": 4, "alcohol": 3, "colorIntensity": 4 },
+  "visual": {
+    "es": "Color intenso y profundo, similar en apariencia al Malbec, pero con piel más fina que suele traducirse en algo menos de extracción y cuerpo en boca."
+  },
+  "aromas": [
+    { "descriptorId": "cereza", "kind": "primary" },
+    { "descriptorId": "ciruela", "kind": "primary" },
+    { "descriptorId": "arandano", "kind": "primary" },
+    { "descriptorId": "violeta", "kind": "primary" },
+    { "descriptorId": "pimienta-negra", "kind": "primary" }
+  ],
+  "palate": {
+    "es": "Cuerpo medio, taninos bajos y suaves por la piel fina de la baya, y acidez jugosa y marcada que la hace sentir fresca y fácil de beber. Rara vez pasa por roble, así que mantiene el foco en la fruta sin notas tostadas."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Acidez notablemente más alta y jugosa que el Malbec, con taninos bajos: entra más liviana y fresca en boca."
+    },
+    {
+      "es": "Color tan intenso como el del Malbec, pero con menos cuerpo y graduación alcohólica típicamente más baja (ronda o queda por debajo de 13,5%, frente al 13-15% del Malbec)."
+    },
+    {
+      "es": "Perfil frutal de cereza negra, ciruela y arándano sin notas de vainilla o tostado: casi no pasa por roble, a diferencia del Malbec."
+    },
+    {
+      "es": "Nota de pimienta negra o especia que rara vez aparece tan marcada en el Malbec."
+    }
+  ],
+  "confusedWith": [
+    {
+      "grapeId": "malbec",
+      "howToTell": {
+        "es": "Comparten color intenso y origen francés, pero la Bonarda tiene menos cuerpo, taninos más bajos, acidez más marcada y casi nunca pasa por roble (sin vainilla ni tostado), mientras que el Malbec es más estructurado y suele tener crianza."
+      }
+    }
+  ],
+  "evolution": {
+    "young": {
+      "es": "Fruta fresca de cereza negra, ciruela y arándano, con taninos ya suaves y acidez viva; es el momento en que mejor se expresa."
+    },
+    "aged": {
+      "es": "No es una cepa pensada para guarda larga: con el tiempo la fruta pierde frescura y los pocos ejemplares con algo de crianza en roble pueden sumar notas sutiles de especias, pero sin ganar mucha complejidad adicional."
+    },
+    "agingPotentialYears": { "min": 2, "max": 6 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe Variedad: Bonarda (datos 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-variedad-bonarda",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wines of Argentina — Argentine Bonarda: The Resilient Variety",
+      "url": "https://blog.winesofargentina.com/destacadas/argentine-bonarda/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — Bonarda is Argentina's Next Red Wine Discovery",
+      "url": "https://winefolly.com/lifestyle/move-over-malbec-bonarda-is-argentina/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -39,7 +39,14 @@
       "es": "Acidez media-baja que la hace sentir más 'redonda' en boca que el Cabernet Sauvignon o el Cabernet Franc."
     }
   ],
-  "confusedWith": [],
+  "confusedWith": [
+    {
+      "grapeId": "bonarda",
+      "howToTell": {
+        "es": "Comparten color intenso, pero el Malbec tiene más cuerpo, taninos más presentes, acidez algo más baja y suele tener crianza en roble (vainilla, tostado), mientras que la Bonarda es más liviana, de acidez más marcada y casi nunca pasa por barrica."
+      }
+    }
+  ],
   "evolution": {
     "young": {
       "es": "Fruta negra y roja muy fresca (ciruela, mora), nota floral de violeta marcada, color intenso y taninos firmes pero ya redondeados."
