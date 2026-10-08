@@ -1,0 +1,39 @@
+{
+  "id": "ar-rio-negro-alto-valle",
+  "parentId": "ar-rio-negro",
+  "level": "gi",
+  "names": { "es": "Alto Valle de Río Negro" },
+  "altitudeMeters": { "min": 250, "max": 450 },
+  "climate": {
+    "es": "Clima frío semiárido, con temperatura media anual de 13-15°C y menos de 200 mm de lluvia al año. Amplitud térmica diaria muy marcada: días de 28-35°C y noches cercanas a 0°C, lo que favorece una maduración lenta y pareja. Vientos fuertes y persistentes del oeste reducen la humedad y el riesgo de enfermedades fúngicas, permitiendo una viticultura con poco uso de agroquímicos."
+  },
+  "soils": {
+    "es": "Suelos aluvionales areno-arcillosos depositados por los ríos Limay y Neuquén, sobre sustratos de caliza, arena, arcilla y grava. En la sub-zona de Mainqué aparecen arcillas rojas ricas en hierro con canto rodado de lechos de río antiguos. La composición arenosa impidió históricamente el avance de la filoxera, por lo que sobreviven viñedos sin injertar plantados entre 1930 y 1950."
+  },
+  "keyGrapeIds": ["pinot-noir", "malbec", "merlot"],
+  "wineStyle": {
+    "es": "Vinos de clima frío, elegantes y de aromática transparente: cereza roja, frutilla silvestre y arándano rojo, con hierbas secas, una marcada impronta mineral/salina y taninos finos. Es el perfil más liviano y menos extraído entre las zonas vitivinícolas argentinas destacadas."
+  },
+  "protectedDesignations": [
+    {
+      "kind": "IG",
+      "name": { "es": "Alto Valle de Río Negro" },
+      "rules": {
+        "es": "Indicación Geográfica que abarca viñedos dentro de los departamentos de General Roca y El Cuy, en la provincia de Río Negro; identifica vinos elaborados con uva cultivada dentro de esa área delimitada."
+      }
+    }
+  ],
+  "coordinates": { "lat": -39.0333, "lon": -67.5833 },
+  "sources": [
+    {
+      "title": "Proensa — Los vinos más australes del planeta: Río Negro, la cruz del sur",
+      "url": "https://www.proensa.com/los-vinos-mas-australes-del-planeta-rio-negro-la-cruz-del-sur/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine with Seth — Río Negro Alto Valle Wine Region",
+      "url": "https://www.winewithseth.com/winewiki/rio-negro-alto-valle/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
