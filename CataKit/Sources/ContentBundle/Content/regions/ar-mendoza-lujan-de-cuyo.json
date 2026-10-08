@@ -1,0 +1,44 @@
+{
+  "id": "ar-mendoza-lujan-de-cuyo",
+  "parentId": "ar-mendoza",
+  "level": "department",
+  "names": { "es": "Luján de Cuyo" },
+  "altitudeMeters": { "min": 800, "max": 1100 },
+  "climate": {
+    "es": "Clima árido de piedemonte andino: días calurosos y noches frías, con amplitud térmica de hasta 15°C en verano. Precipitaciones por debajo de los 200 mm anuales y más de 250 días de sol al año, por lo que el riego depende casi por completo del deshielo andino a través del río Mendoza. La fuerte radiación UV de altura y las noches frías ayudan a preservar acidez natural y compuestos aromáticos."
+  },
+  "soils": {
+    "es": "Suelos aluvionales depositados por el río Mendoza y afluentes andinos a lo largo de milenios: pedregosos y arenosos, pobres en materia orgánica y de buen drenaje, con presencia de carbonato de calcio en profundidad en los sectores más cercanos a la cordillera."
+  },
+  "keyGrapeIds": ["malbec", "cabernet-sauvignon"],
+  "wineStyle": {
+    "es": "Malbec de color granate profundo a púrpura intenso, con fruta negra madura (ciruela, mora, cereza negra) enmarcada por violeta y rosa. Aromas silvestres, hierbas secas, regaliz y una nota mineral de grafito son sello distintivo de la zona. Taninos sedosos e integrados, sin aspereza, con potencial de guarda de 10 a 15+ años. Frente al Malbec del Valle de Uco (más de altura), el de Luján de Cuyo suele mostrar fruta más rica y carácter más untuoso."
+  },
+  "protectedDesignations": [
+    {
+      "kind": "DOC",
+      "name": { "es": "DOC Luján de Cuyo" },
+      "rules": {
+        "es": "Primera denominación de origen controlada de Argentina y Latinoamérica, avalada por la Organización Internacional de la Viña y el Vino (OIV). Reconocida por Resolución C 15/2005 del INV y ratificada por la Ley Nacional 25.163. Desde 2025 las etiquetas pueden consignar también el distrito de origen dentro de la DOC (DOC Distrital)."
+      }
+    }
+  ],
+  "coordinates": { "lat": -33.0333, "lon": -68.8833 },
+  "sources": [
+    {
+      "title": "Municipalidad de Luján de Cuyo — Vitivinicultura",
+      "url": "https://lujandecuyo.gob.ar/invest/oportunidades/agroindustrial/vitivinicultura/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "INV — Resolución C 15/2005 (texto completo)",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-108306/texto",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine With Seth — Luján de Cuyo Wine Region",
+      "url": "https://www.winewithseth.com/winewiki/lujan-de-cuyo/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
