@@ -1,0 +1,70 @@
+{
+  "id": "malbec",
+  "names": { "es": "Malbec" },
+  "aliases": ["Côt", "Auxerrois"],
+  "color": "red",
+  "origin": {
+    "regionId": "fr",
+    "note": {
+      "es": "Originaria del suroeste de Francia, donde se la conoce como 'Côt'. En Argentina es la cepa tinta más cultivada desde 2011: según el INV, a fines de 2025 ocupaba 46.890 ha, el 23,9% de la superficie total de viñedos del país."
+    }
+  },
+  "structure": { "body": 4, "tannin": 3, "acidity": 3, "alcohol": 4, "colorIntensity": 5 },
+  "visual": {
+    "es": "Rojo púrpura intenso, casi opaco, con reflejos magenta en el borde. La alta intensidad de color es uno de los indicios más claros para reconocerla a ciegas."
+  },
+  "aromas": [
+    { "descriptorId": "ciruela", "kind": "primary" },
+    { "descriptorId": "mora", "kind": "primary" },
+    { "descriptorId": "violeta", "kind": "primary" },
+    { "descriptorId": "vainilla", "kind": "secondary" },
+    { "descriptorId": "tostado", "kind": "secondary" },
+    { "descriptorId": "cuero", "kind": "tertiary" },
+    { "descriptorId": "tabaco", "kind": "tertiary" }
+  ],
+  "palate": {
+    "es": "Cuerpo pleno, con taninos medios, redondeados y aterciopelados —más suaves que los del Cabernet Sauvignon— y acidez media que aporta frescura sin opacar la fruta. Paso carnoso, con buena persistencia de fruta madura."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Color rojo púrpura casi opaco con borde magenta: entre las tintas argentinas, de las de mayor intensidad de color."
+    },
+    {
+      "es": "Taninos redondos y aterciopelados, notablemente más suaves que los del Cabernet Sauvignon a igual añada."
+    },
+    {
+      "es": "Combinación de ciruela y mora con violeta: la nota floral junto a fruta negra madura es distintiva frente a otras tintas."
+    },
+    {
+      "es": "Acidez media-baja que la hace sentir más 'redonda' en boca que el Cabernet Sauvignon o el Cabernet Franc."
+    }
+  ],
+  "confusedWith": [],
+  "evolution": {
+    "young": {
+      "es": "Fruta negra y roja muy fresca (ciruela, mora), nota floral de violeta marcada, color intenso y taninos firmes pero ya redondeados."
+    },
+    "aged": {
+      "es": "La fruta se repliega y aparecen notas de cuero, tabaco y especias; el borde vira a tonos más teja y los taninos se pulen aún más."
+    },
+    "agingPotentialYears": { "min": 3, "max": 15 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe Malbec 2026 (datos a diciembre de 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-malbec-2026",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wines of Argentina — Variedades de Argentina",
+      "url": "https://winesofargentina.org/assets/pdf/es/variedades.pdf",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — What Is Malbec Wine?",
+      "url": "https://winefolly.com/deep-dive/what-is-malbec-wine/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
