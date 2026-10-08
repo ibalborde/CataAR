@@ -134,8 +134,8 @@ Todo texto de contenido es `LocalizedText` (`{"es": "..."}`); `es` es obligatori
 ```
 
 `level` ∈ `country | province | region | department | district | gi`. Escalas de `structure`: enteros 1–5.
-`descriptors.json`: lista de `{ "id", "names", "family" }` (familias: fruta roja, fruta negra, floral, especiado,
-vegetal, mineral, crianza, evolución). Los ids de descriptores también son estables.
+`descriptors.json`: lista de `{ "id", "names", "family" }` (familias: fruta roja, fruta negra, fruta blanca, floral,
+especiado, vegetal, mineral, crianza, evolución). Los ids de descriptores también son estables.
 
 Cambiar el esquema = subir `schemaVersion`, actualizar DTOs, mappers, fixtures y ContentTests en el mismo commit.
 
