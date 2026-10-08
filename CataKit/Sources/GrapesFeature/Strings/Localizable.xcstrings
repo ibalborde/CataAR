@@ -1,0 +1,146 @@
+{
+  "sourceLanguage" : "es",
+  "strings" : {
+    "grapes.detail.agingPotential" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Potencial de guarda" } }
+      }
+    },
+    "grapes.detail.aromas" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Aromas" } }
+      }
+    },
+    "grapes.detail.aromas.primary" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Primarios" } }
+      }
+    },
+    "grapes.detail.aromas.secondary" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Secundarios" } }
+      }
+    },
+    "grapes.detail.aromas.tertiary" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Terciarios" } }
+      }
+    },
+    "grapes.detail.blindTastingKeys" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Claves para cata a ciegas" } }
+      }
+    },
+    "grapes.detail.confusedWith" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Se confunde con" } }
+      }
+    },
+    "grapes.detail.error" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "No se pudo cargar la ficha" } }
+      }
+    },
+    "grapes.detail.evolution" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Evolución" } }
+      }
+    },
+    "grapes.detail.evolution.aged" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Evolucionado" } }
+      }
+    },
+    "grapes.detail.evolution.young" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Joven" } }
+      }
+    },
+    "grapes.detail.palate" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "En boca" } }
+      }
+    },
+    "grapes.detail.regionalExpressions" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Expresiones regionales" } }
+      }
+    },
+    "grapes.detail.sources" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Fuentes" } }
+      }
+    },
+    "grapes.detail.structure" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Estructura" } }
+      }
+    },
+    "grapes.detail.structure.acidity" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Acidez" } }
+      }
+    },
+    "grapes.detail.structure.alcohol" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Alcohol" } }
+      }
+    },
+    "grapes.detail.structure.body" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cuerpo" } }
+      }
+    },
+    "grapes.detail.structure.colorIntensity" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Intensidad de color" } }
+      }
+    },
+    "grapes.detail.structure.tannin" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Tanino" } }
+      }
+    },
+    "grapes.detail.years" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "años" } }
+      }
+    },
+    "grapes.detail.visual" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Aspecto visual" } }
+      }
+    },
+    "grapes.list.empty" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "No hay cepas cargadas" } }
+      }
+    },
+    "grapes.list.error" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "No se pudo cargar la lista" } }
+      }
+    },
+    "grapes.list.title" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cepas" } }
+      }
+    },
+    "wineColor.red" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Tinto" } }
+      }
+    },
+    "wineColor.rosado" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Rosado" } }
+      }
+    },
+    "wineColor.white" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Blanco" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

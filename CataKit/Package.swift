@@ -3,13 +3,14 @@ import PackageDescription
 
 let package = Package(
     name: "CataKit",
-    platforms: [.iOS(.v26)],
+    platforms: [.iOS(.v26), .macOS(.v14)],
     products: [
         .library(name: "Domain", targets: ["Domain"]),
         .library(name: "Data", targets: ["Data"]),
         .library(name: "ContentBundle", targets: ["ContentBundle"]),
         .library(name: "DesignSystem", targets: ["DesignSystem"]),
         .library(name: "TestSupport", targets: ["TestSupport"]),
+        .library(name: "GrapesFeature", targets: ["GrapesFeature"]),
     ],
     targets: [
         .target(
@@ -30,6 +31,11 @@ let package = Package(
             name: "TestSupport",
             dependencies: ["Domain"]
         ),
+        .target(
+            name: "GrapesFeature",
+            dependencies: ["Domain", "DesignSystem"],
+            resources: [.process("Strings")]
+        ),
         .testTarget(
             name: "DomainTests",
             dependencies: ["Domain"]
@@ -41,6 +47,10 @@ let package = Package(
         .testTarget(
             name: "ContentTests",
             dependencies: ["Data", "ContentBundle"]
+        ),
+        .testTarget(
+            name: "GrapesFeatureTests",
+            dependencies: ["GrapesFeature", "TestSupport"]
         ),
     ],
     swiftLanguageModes: [.v6]
