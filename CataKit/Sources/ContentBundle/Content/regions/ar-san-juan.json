@@ -1,0 +1,25 @@
+{
+  "id": "ar-san-juan",
+  "parentId": "ar",
+  "level": "province",
+  "names": { "es": "San Juan" },
+  "altitudeMeters": null,
+  "climate": null,
+  "soils": null,
+  "keyGrapeIds": ["bonarda", "syrah"],
+  "wineStyle": null,
+  "protectedDesignations": [],
+  "coordinates": { "lat": -31.5375, "lon": -68.5364 },
+  "sources": [
+    {
+      "title": "INV — Informe de variedad: Syrah (datos a diciembre de 2024)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-syrah-0",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "INV — Informe Variedad: Bonarda (datos 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-variedad-bonarda",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ar-rio-negro",
+  "parentId": "ar",
+  "level": "province",
+  "names": { "es": "Río Negro" },
+  "altitudeMeters": null,
+  "climate": null,
+  "soils": null,
+  "keyGrapeIds": ["pinot-noir"],
+  "wineStyle": null,
+  "protectedDesignations": [],
+  "coordinates": { "lat": -39.0333, "lon": -67.5833 },
+  "sources": [
+    {
+      "title": "INV — Informe de variedad: Pinot Noir (datos 2022)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-pinot-noir",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

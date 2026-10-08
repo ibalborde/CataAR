@@ -1,0 +1,33 @@
+{
+  "id": "ar-mendoza",
+  "parentId": "ar",
+  "level": "province",
+  "names": { "es": "Mendoza" },
+  "altitudeMeters": null,
+  "climate": null,
+  "soils": null,
+  "keyGrapeIds": [
+    "malbec",
+    "bonarda",
+    "cabernet-sauvignon",
+    "cabernet-franc",
+    "merlot",
+    "syrah",
+    "pinot-noir"
+  ],
+  "wineStyle": null,
+  "protectedDesignations": [],
+  "coordinates": { "lat": -32.8895, "lon": -68.8458 },
+  "sources": [
+    {
+      "title": "INV — Informe Malbec 2026 (datos a diciembre de 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-malbec-2026",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "INV — Informe de Variedad: Cabernet Sauvignon (datos 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-cabernet-sauvignon-1",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ar-salta",
+  "parentId": "ar",
+  "level": "province",
+  "names": { "es": "Salta" },
+  "altitudeMeters": null,
+  "climate": null,
+  "soils": null,
+  "keyGrapeIds": ["torrontes-riojano"],
+  "wineStyle": null,
+  "protectedDesignations": [],
+  "coordinates": { "lat": -24.7829, "lon": -65.4232 },
+  "sources": [
+    {
+      "title": "INV — Informe de Variedad: Torrontés (datos 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-torrontes-1",
+      "accessed": "2026-10-07"
+    }
+  ]
+}

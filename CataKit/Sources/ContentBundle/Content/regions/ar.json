@@ -1,0 +1,20 @@
+{
+  "id": "ar",
+  "parentId": null,
+  "level": "country",
+  "names": { "es": "Argentina" },
+  "altitudeMeters": null,
+  "climate": null,
+  "soils": null,
+  "keyGrapeIds": ["malbec", "bonarda", "cabernet-sauvignon"],
+  "wineStyle": null,
+  "protectedDesignations": [],
+  "coordinates": { "lat": -38.4161, "lon": -63.6167 },
+  "sources": [
+    {
+      "title": "INV — Informe Malbec 2026 (datos a diciembre de 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-malbec-2026",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
