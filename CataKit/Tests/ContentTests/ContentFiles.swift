@@ -8,7 +8,7 @@ enum ContentFiles {
     ContentBundle.resourceBundle.url(
       forResource: "manifest",
       withExtension: "json",
-      subdirectory: "Resources"
+      subdirectory: "Content"
     )
   }
 
@@ -16,7 +16,7 @@ enum ContentFiles {
     ContentBundle.resourceBundle.url(
       forResource: "descriptors",
       withExtension: "json",
-      subdirectory: "Resources"
+      subdirectory: "Content"
     )
   }
 

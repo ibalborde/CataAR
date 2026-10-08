@@ -11,7 +11,7 @@ enum ContentBundleJSONLoader {
       let directoryURL = bundle.url(
         forResource: subdirectory,
         withExtension: nil,
-        subdirectory: "Resources"
+        subdirectory: "Content"
       )
     else {
       return []

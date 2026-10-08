@@ -17,7 +17,7 @@ let package = Package(
         ),
         .target(
             name: "ContentBundle",
-            resources: [.copy("Resources")]
+            resources: [.copy("Content")]
         ),
         .target(
             name: "Data",

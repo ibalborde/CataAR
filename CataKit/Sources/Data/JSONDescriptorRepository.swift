@@ -12,7 +12,7 @@ public struct JSONDescriptorRepository: DescriptorRepository {
   public func allDescriptors() async throws -> [Descriptor] {
     guard
       let url = bundle.url(
-        forResource: "descriptors", withExtension: "json", subdirectory: "Resources")
+        forResource: "descriptors", withExtension: "json", subdirectory: "Content")
     else {
       throw ContentError.notFound(id: "descriptors")
     }

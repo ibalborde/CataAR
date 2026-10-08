@@ -31,7 +31,9 @@ CataAR/
 │  ├─ Sources/
 │  │  ├─ Domain/              # entidades, protocolos, casos de uso. Sin imports de UI ni persistencia
 │  │  ├─ Data/                # DTOs, mappers, repositorios concretos
-│  │  ├─ ContentBundle/       # Resources/: manifest.json, grapes/*.json, regions/*.json, descriptors.json
+│  │  ├─ ContentBundle/       # Content/: manifest.json, grapes/*.json, regions/*.json, descriptors.json
+│  │  │                       # (named Content, not Resources: Xcode 27's codesign rejects any .bundle
+│  │  │                       #  with a nested folder literally named "Resources" as malformed)
 │  │  ├─ DesignSystem/        # tokens + componentes reutilizables
 │  │  ├─ GrapesFeature/
 │  │  ├─ RegionsFeature/
