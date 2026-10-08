@@ -1,0 +1,66 @@
+{
+  "id": "torrontes-riojano",
+  "names": { "es": "Torrontés Riojano" },
+  "aliases": [],
+  "color": "white",
+  "origin": {
+    "regionId": "ar",
+    "note": {
+      "es": "Variedad autóctona argentina: estudios genéticos (Cecilia Agüero, INTA, 2003) confirmaron que es cruza natural de Criolla (de origen español colonial) y Moscatel de Alejandría — una cruza genéticamente distinta de la del Torrontés Sanjuanino y el Torrontés Mendocino, pese a compartir nombre. Se originó en La Rioja, donde los primeros viñedos datan de 1617. Es la segunda variedad blanca más plantada del país: según el INV, en 2025 el total de Torrontés sumaba 8.392 ha (4,2% de la superficie de vid del país, con caída del 21,9% en la última década), de las cuales el Torrontés Riojano representa el 80% — es el de mayor calidad enológica de los tres Torrontés argentinos y el que casi siempre se vende como 'Torrontés' a secas."
+    }
+  },
+  "structure": { "body": 2, "tannin": 1, "acidity": 4, "alcohol": 2, "colorIntensity": 1 },
+  "visual": {
+    "es": "Amarillo pajizo muy pálido, con reflejos verdosos; el más claro de las cepas cargadas hasta ahora."
+  },
+  "aromas": [
+    { "descriptorId": "rosa", "kind": "primary" },
+    { "descriptorId": "azahar", "kind": "primary" },
+    { "descriptorId": "durazno", "kind": "primary" }
+  ],
+  "palate": {
+    "es": "Cuerpo liviano a medio, sin tanino perceptible, con acidez marcada y fresca —casi austera— que sostiene su intensidad aromática. Entra seco pese a que la nariz floral y frutada sugiere dulzor; cierra con un leve amargor cítrico en el final."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Nariz intensamente floral y perfumada (azahar, rosa) que primero sugiere un vino dulce, pero en boca es seco: ese contraste nariz-boca es la pista clásica para identificarlo."
+    },
+    {
+      "es": "Acidez marcada y textura delgada, casi austera, pese a la potencia aromática — no es untuoso como otros blancos aromáticos tipo Gewürztraminer."
+    },
+    {
+      "es": "Es la única blanca cargada hasta ahora: color pajizo muy pálido y ausencia total de tanino lo distinguen de inmediato de cualquier tinta de la app."
+    },
+    {
+      "es": "Frente al Torrontés Sanjuanino (más simple, orientado a pasas/vino de mesa) y el Mendocino (menos aromático), el Riojano es el más intenso en nariz y de mayor calidad enológica."
+    }
+  ],
+  "confusedWith": [],
+  "evolution": {
+    "young": {
+      "es": "Máxima expresión floral y frutal (azahar, rosa, durazno), acidez vibrante y color pajizo muy pálido; es la etapa en la que prácticamente siempre se consume."
+    },
+    "aged": {
+      "es": "No es una variedad pensada para guarda: pierde intensidad aromática con rapidez y el color profundiza levemente hacia el dorado, sin ganar complejidad relevante a cambio."
+    },
+    "agingPotentialYears": { "min": 1, "max": 3 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe de Variedad: Torrontés (datos 2025)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-torrontes-1",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wines of Argentina — The Long Road Of Torrontés",
+      "url": "https://blog.winesofargentina.com/news/the-long-road-of-torrontes/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — The Comprehensive Guide to Torrontés",
+      "url": "https://winefolly.com/grapes/torrontes/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
