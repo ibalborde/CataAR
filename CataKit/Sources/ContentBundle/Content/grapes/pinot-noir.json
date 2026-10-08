@@ -1,0 +1,69 @@
+{
+  "id": "pinot-noir",
+  "names": { "es": "Pinot Noir" },
+  "aliases": ["Pinot Negro", "Spätburgunder"],
+  "color": "red",
+  "origin": {
+    "regionId": "fr",
+    "note": {
+      "es": "Originaria de Borgoña, Francia. En Argentina encontró sus mejores expresiones en zonas frías y de altitud: el Valle de Uco (especialmente Gualtallary y Tupungato) y la Patagonia (Río Negro, Neuquén, Chubut). Según el INV, en 2022 ocupaba 1.969 ha, apenas el 1% de la superficie total de viñedos del país, concentradas en un 73,4% en Mendoza, 12,1% en Neuquén y 6,4% en Río Negro."
+    }
+  },
+  "structure": { "body": 2, "tannin": 2, "acidity": 5, "alcohol": 3, "colorIntensity": 2 },
+  "visual": {
+    "es": "Color pálido a medio, el más claro de las tintas del set por su piel fina: en la copa casi se puede ver a través, muy distinto a la opacidad del Malbec o la Bonarda."
+  },
+  "aromas": [
+    { "descriptorId": "cereza", "kind": "primary" },
+    { "descriptorId": "frambuesa", "kind": "primary" },
+    { "descriptorId": "rosa", "kind": "primary" },
+    { "descriptorId": "vainilla", "kind": "secondary" },
+    { "descriptorId": "sotobosque", "kind": "tertiary" },
+    { "descriptorId": "hongo", "kind": "tertiary" }
+  ],
+  "palate": {
+    "es": "Cuerpo liviano a medio, taninos finos y sedosos, y acidez alta y vibrante que domina el conjunto. Es la tinta más delicada y menos extraída del set."
+  },
+  "blindTastingKeys": [
+    {
+      "es": "Color notablemente más pálido que el Malbec o la Bonarda: se ve a través de la copa, casi como un tinto liviano."
+    },
+    {
+      "es": "Acidez muy alta, la más marcada de las tintas del set — supera incluso a la Bonarda."
+    },
+    {
+      "es": "Taninos finos y sedosos, apenas perceptibles en comparación con el Malbec."
+    },
+    {
+      "es": "Aromas de cereza y frambuesa frescas que con el tiempo derivan a sotobosque y hongo, un perfil de evolución más marcado que el de Malbec o Bonarda."
+    }
+  ],
+  "confusedWith": [],
+  "evolution": {
+    "young": {
+      "es": "Fruta roja fresca de cereza y frambuesa, con nota floral sutil y acidez muy viva; los taninos ya son finos desde joven."
+    },
+    "aged": {
+      "es": "La fruta cede paso a notas de sotobosque y hongo, con mayor complejidad terrosa; es la cepa del set con el perfil de evolución más marcado."
+    },
+    "agingPotentialYears": { "min": 3, "max": 12 }
+  },
+  "regionalExpressions": [],
+  "sources": [
+    {
+      "title": "INV — Informe de variedad: Pinot Noir (datos 2022)",
+      "url": "https://www.argentina.gob.ar/noticias/informe-de-variedad-pinot-noir",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wines of Argentina — Argentine Pinot Noir: A Challenging Grape Asserts Itself Across A Range Of Terroirs",
+      "url": "https://blog.winesofargentina.com/breaking/argentine-pinot-noir-map/",
+      "accessed": "2026-10-07"
+    },
+    {
+      "title": "Wine Folly — The Comprehensive Guide to Pinot Noir",
+      "url": "https://winefolly.com/grapes/pinot-noir/",
+      "accessed": "2026-10-07"
+    }
+  ]
+}
