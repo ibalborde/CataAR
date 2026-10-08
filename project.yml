@@ -1,0 +1,57 @@
+name: CataAR
+options:
+  bundleIdPrefix: com.ibalborde
+  deploymentTarget:
+    iOS: "26.0"
+  createIntermediateGroups: true
+packages:
+  CataKit:
+    path: CataKit
+targets:
+  CataAR:
+    type: application
+    platform: iOS
+    deploymentTarget: "26.0"
+    sources:
+      - path: App
+    dependencies:
+      - package: CataKit
+        product: Domain
+      - package: CataKit
+        product: Data
+      - package: CataKit
+        product: ContentBundle
+      - package: CataKit
+        product: DesignSystem
+    settings:
+      base:
+        SWIFT_VERSION: "6.0"
+        PRODUCT_BUNDLE_IDENTIFIER: com.ibalborde.CataAR
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+  CataARUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    deploymentTarget: "26.0"
+    sources:
+      - path: CataARUITests
+    dependencies:
+      - target: CataAR
+    settings:
+      base:
+        SWIFT_VERSION: "6.0"
+        GENERATE_INFOPLIST_FILE: YES
+schemes:
+  CataAR:
+    build:
+      targets:
+        CataAR: all
+    test:
+      targets:
+        - CataARUITests
+    run:
+      config: Debug
+    archive:
+      config: Release
