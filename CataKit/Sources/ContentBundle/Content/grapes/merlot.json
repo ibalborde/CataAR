@@ -56,7 +56,32 @@
     },
     "agingPotentialYears": { "min": 3, "max": 15 }
   },
-  "regionalExpressions": [],
+  "regionalExpressions": [
+    {
+      "regionId": "ar-mendoza-san-rafael",
+      "notes": {
+        "es": "Se destaca por su carácter afrutado más que por la estructura tánica, acorde al estilo general más accesible de San Rafael."
+      }
+    },
+    {
+      "regionId": "ar-mendoza-valle-de-uco",
+      "notes": {
+        "es": "Gana definición aromática y acidez por la altura, un perfil más fresco que el de zonas bajas de Mendoza."
+      }
+    },
+    {
+      "regionId": "ar-salta-cafayate",
+      "notes": {
+        "es": "Taninos maduros y buena acidez natural pese a la calidez diurna, por la fuerte amplitud térmica de la zona."
+      }
+    },
+    {
+      "regionId": "ar-rio-negro-alto-valle",
+      "notes": {
+        "es": "Variedad secundaria de la zona, con el perfil liviano y de taninos finos típico del clima frío del Alto Valle."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "INV — Informe de Variedad: Merlot (datos 2022)",

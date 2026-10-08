@@ -69,7 +69,38 @@
     },
     "agingPotentialYears": { "min": 5, "max": 20 }
   },
-  "regionalExpressions": [],
+  "regionalExpressions": [
+    {
+      "regionId": "ar-mendoza-lujan-de-cuyo",
+      "notes": {
+        "es": "Comparte con el Malbec de la zona el perfil de fruta negra madura y notas de grafito, con la estructura tánica firme característica de la variedad."
+      }
+    },
+    {
+      "regionId": "ar-mendoza-valle-de-uco",
+      "notes": {
+        "es": "La altura y la amplitud térmica refuerzan su acidez y afinan sus taninos, en una de las zonas de mejor expresión de la variedad en Mendoza."
+      }
+    },
+    {
+      "regionId": "ar-mendoza-san-rafael",
+      "notes": {
+        "es": "Perfil más afrutado que tánico, en línea con el estilo general más accesible de la zona."
+      }
+    },
+    {
+      "regionId": "ar-salta-cafayate",
+      "notes": {
+        "es": "Color muy intenso y taninos maduros, con buena acidez natural por la amplitud térmica de altura."
+      }
+    },
+    {
+      "regionId": "ar-san-juan-pedernal",
+      "notes": {
+        "es": "Se beneficia de la frescura nocturna y los suelos calcáreos del valle, ganando precisión frente a ejemplares de zonas más bajas."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "INV — Informe de Variedad: Cabernet Sauvignon (datos 2025)",

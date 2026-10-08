@@ -48,7 +48,20 @@
     },
     "agingPotentialYears": { "min": 3, "max": 12 }
   },
-  "regionalExpressions": [],
+  "regionalExpressions": [
+    {
+      "regionId": "ar-mendoza-valle-de-uco",
+      "notes": {
+        "es": "Encuentra en el clima fresco de altura una de sus mejores expresiones del país, junto con el Cabernet Franc."
+      }
+    },
+    {
+      "regionId": "ar-rio-negro-alto-valle",
+      "notes": {
+        "es": "Es la zona insignia de la variedad en Argentina: perfil elegante y de aromática transparente (cereza roja, frutilla silvestre, arándano rojo), con impronta mineral/salina y taninos finos, propio del clima frío semiárido patagónico."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "INV — Informe de variedad: Pinot Noir (datos 2022)",

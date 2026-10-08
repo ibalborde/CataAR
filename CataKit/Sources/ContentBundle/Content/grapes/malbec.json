@@ -56,7 +56,44 @@
     },
     "agingPotentialYears": { "min": 3, "max": 15 }
   },
-  "regionalExpressions": [],
+  "regionalExpressions": [
+    {
+      "regionId": "ar-mendoza-lujan-de-cuyo",
+      "notes": {
+        "es": "Color granate profundo, fruta negra madura con violeta y rosa, notas de hierbas secas y grafito; taninos sedosos con guarda de 10 a 15+ años. Es la expresión más clásica y rica en fruta del Malbec argentino."
+      }
+    },
+    {
+      "regionId": "ar-mendoza-valle-de-uco",
+      "notes": {
+        "es": "Por la altura y la amplitud térmica gana un perfil más floral y especiado, con acidez más marcada que el de Luján de Cuyo."
+      }
+    },
+    {
+      "regionId": "ar-mendoza-san-rafael",
+      "notes": {
+        "es": "Perfil más frutado y accesible, de acidez moderada, en una zona más cálida y de suelos franco-arenosos que favorecen vinos de consumo más inmediato."
+      }
+    },
+    {
+      "regionId": "ar-salta-cafayate",
+      "notes": {
+        "es": "Color muy intenso con buena acidez natural pese a la calidez diurna, gracias a la fuerte amplitud térmica de altura; menor peso alcohólico aparente que en otras zonas cálidas."
+      }
+    },
+    {
+      "regionId": "ar-san-juan-pedernal",
+      "notes": {
+        "es": "De altura, concentrado y de estructura precisa, con una salinidad pedregosa típica de los suelos calcáreos del valle; menos frutal-dulce que el de Luján de Cuyo."
+      }
+    },
+    {
+      "regionId": "ar-rio-negro-alto-valle",
+      "notes": {
+        "es": "La expresión más liviana y de clima más frío del Malbec argentino, con aromática transparente y taninos finos, en línea con el perfil general de la zona."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "INV — Informe Malbec 2026 (datos a diciembre de 2025)",

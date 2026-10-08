@@ -45,7 +45,14 @@
     },
     "agingPotentialYears": { "min": 1, "max": 3 }
   },
-  "regionalExpressions": [],
+  "regionalExpressions": [
+    {
+      "regionId": "ar-salta-cafayate",
+      "notes": {
+        "es": "Es la zona de referencia absoluta de la variedad: la altura y el frío nocturno sostienen su acidez marcada pese a la calidez diurna, dando el perfil floral (azahar, rosa) más intenso del país."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "INV — Informe de Variedad: Torrontés (datos 2025)",

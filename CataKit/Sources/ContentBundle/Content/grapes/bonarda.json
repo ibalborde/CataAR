@@ -54,7 +54,14 @@
     },
     "agingPotentialYears": { "min": 2, "max": 6 }
   },
-  "regionalExpressions": [],
+  "regionalExpressions": [
+    {
+      "regionId": "ar-mendoza-san-rafael",
+      "notes": {
+        "es": "Una de las variedades de mayor superficie de la zona; su acidez marcada y taninos bajos encajan con el perfil frutado y accesible típico de San Rafael."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "INV — Informe Variedad: Bonarda (datos 2025)",

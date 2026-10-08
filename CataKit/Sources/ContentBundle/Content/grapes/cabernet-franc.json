@@ -53,7 +53,14 @@
     },
     "agingPotentialYears": { "min": 3, "max": 10 }
   },
-  "regionalExpressions": [],
+  "regionalExpressions": [
+    {
+      "regionId": "ar-mendoza-valle-de-uco",
+      "notes": {
+        "es": "Encuentra en el clima fresco de altura una de sus mejores expresiones del país, con la nota herbácea de pimiento verde bien integrada a la acidez marcada de la zona."
+      }
+    }
+  ],
   "sources": [
     {
       "title": "INV — Informe de variedad: Cabernet Franc (datos 2024)",
